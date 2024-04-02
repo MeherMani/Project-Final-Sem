@@ -15,7 +15,7 @@ This Python script generates random employee data and saves it to a CSV file. Th
 1. Clone or download this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/employee-data-generator.git
+git clone git@github.com:MeherMani/Project-Final-Sem.git
 ```
 
 Install the required Python libraries using pip.
