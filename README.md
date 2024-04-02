@@ -23,7 +23,7 @@ Install the required Python libraries using pip.
 pip install pandas numpy
 ```
 
-Run the script using Python.
+Run the script using Python. This will generate random data to be used in the project
 ```py
-python employee_data_generator.py
+python script.py
 ```
